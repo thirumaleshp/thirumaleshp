@@ -95,10 +95,6 @@ I am a **DevOps Engineer** and **Cloud Architect** passionate about automating i
 ---
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thirumaleshp&theme=radical&no-frame=true&column=7&margin-w=15" alt="trophy" />
-  </a>
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=thirumaleshp&show_icons=true&theme=radical&hide_border=true" alt="Thirumalesh's GitHub Stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumaleshp&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thirumaleshp&theme=radical&hide_border=true" alt="GitHub Streak" height="180">
