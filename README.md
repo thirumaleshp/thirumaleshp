@@ -1,105 +1,208 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5722&height=150&section=header" width="100%"/>
-  <a href="https://thirumalesh.xyz">
-    <img src="https://thirumalesh.xyz/assets/Thirumalesh.webp" alt="Thirumalesh Pinninti" width="120" height="120" style="border-radius: 50%; border: 4px solid #e0e0e0;">
-  </a>
 
-  <h1 style="font-family: 'Ubuntu', sans-serif;">Thirumalesh Pinninti</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=26&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Cloud+Architect;Building+Cloud+Automation+%26+AI+Agents;Blockchain+Enthusiast+%40+AlgoBharat" alt="Typing SVG" />
-  </a>
-  
-  <p>
-    ğŸ“ Hyderabad, India &nbsp;|&nbsp; ğŸ¢ AlgoBharat
-  </p>
+  <!-- Dynamic header with gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Thirumalesh%20Pinninti&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=crafting%20cloud%20infrastructure%20%E2%80%A2%20shipping%20AI%20products%20%E2%80%A2%20building%20communities&descSize=14&descAlignY=55" width="100%"/>
 
-  <p>
-    <a href="https://x.com/Thirumaleshx" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
-    </a>
-    <a href="https://www.linkedin.com/in/thirumalesh-pinninti/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/thirumaleshp" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://thirumalesh.xyz" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-    </a>
-    <a href="https://www.buymeacoffee.com/thirumaleshp" target="_blank">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-    </a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=thirumaleshp&label=Profile%20Views&color=ff5722&style=flat-square" alt="Profile Views" />
 </div>
 
 <br>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="Hi"> About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I am a **DevOps Engineer** and **Cloud Architect** passionate about automating infrastructure, optimizing cloud costs, and building scalable solutions. Currently, I am the **Co-Lead for MLRITM at AlgoBharat**, driving blockchain adoption and developing real-world solutions.
+### í·­ Who am I?
 
-*   ğŸ”­ Iâ€™m currently working on **Cloud Automation & AI Agents**
-*   ğŸŒ± Iâ€™m currently learning **Advanced Kubernetes & MLOps**
-*   ğŸ’¡ I write about **GCP, AWS, Terraform, and Generative AI**
+```yaml
+name: Thirumalesh Pinninti
+location: Hyderabad, India
+education: B.Tech CS @ MLRITM (2023-2027)
+
+roles:
+  - AWS Cloud Captain
+  - Google Student Ambassador
+  - AlgoBharat Co-Lead @ MLRITM
+
+currently:
+  building: "My-Claw â€” AI Assistant SaaS"
+  learning: "Advanced Kubernetes & MLOps"
+  writing: "GCP, AWS, Terraform, GenAI"
+
+fun_fact: "I deploy personal AI assistants
+           for fun on weekends â˜•"
+```
+
+</td>
+<td width="50%" valign="top">
+
+### í¾¯ What I Do
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=400&height=80&lines=%E2%98%81%EF%B8%8F+Cloud+Architecture+%26+DevOps;%F0%9F%A4%96+AI+Agent+Orchestration;%E2%9B%93+Blockchain+%40+AlgoBharat;%F0%9F%9A%80+SaaS+Product+Engineering" alt="Typing SVG" />
+
+<br>
+
+<div align="center">
+<a href="https://thirumalesh.xyz"><img src="https://img.shields.io/badge/Portfolio-thirumalesh.xyz-58A6FF?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+<a href="https://x.com/Thirumaleshx"><img src="https://img.shields.io/badge/X-@Thirumaleshx-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/thirumalesh-pinninti/"><img src="https://img.shields.io/badge/LinkedIn-thirumalesh--pinninti-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=thirumaleshp&label=visitors&color=58A6FF&style=flat-square" alt="Profile Views" />
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ğŸ› ï¸ Tech Stack
+<h2 align="center">âš¡ Tech Arsenal</h2>
 
 <div align="center">
-  <h3>â˜ï¸ Cloud & Infrastructure</h3>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <br>
-  <h3>ğŸ’» Languages & Tools</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<table>
+<tr>
+<td align="center" width="33%">
+
+**â˜ï¸ Cloud & Infra**
+
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,terraform&perline=5" />
+
+</td>
+<td align="center" width="33%">
+
+**í²» Languages & Dev**
+
+<img src="https://skillicons.dev/icons?i=python,c,bash,js,html&perline=5" />
+
+</td>
+<td align="center" width="33%">
+
+**í´§ DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=jenkins,git,github,linux,vscode&perline=5" />
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## ğŸš€ Featured Projects
+<h2 align="center">í¿—ï¸ Featured Projects</h2>
 
-### ğŸ“Š [Attendance-calculator](https://urattendance.vercel.app/)
-> **Web-based attendance tracker with secure sharing.**
-> *Tech Stack: Web Development, JavaScript, HTML, CSS*
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### ğŸ” [Vault Hub](https://vaulthub.vercel.app/)
-> **Offline-first productivity hub for links, notes, and resources.**
-> *Tech Stack: PWA, IndexedDB, JavaScript, Offline Support*
+<h3 align="center"><a href="https://pixume.me">âœ¨ Pixume</a></h3>
+<p align="center">PDF resume â†’ stunning personal website in seconds. AI-powered extraction, custom URLs, beautiful themes.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/SaaS-Product-green?style=flat-square" />
+</p>
 
-### ğŸ“± [DynamicScan](https://dynamicscan.vercel.app/)
-> **Dynamic QR platform for updating destinations on the fly.**
-> *Tech Stack: QR Code, Dynamic URLs, Web Development*
+</td>
+<td width="50%">
+
+<h3 align="center"><a href="https://myclaw.live">í´– My-Claw</a></h3>
+<p align="center">Managed AI assistant hosting â€” deploy to Telegram, WhatsApp, Slack & Discord with zero server setup.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-Orchestration-2496ED?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat-square" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center"><a href="https://finflow.thirumalesh.xyz">í²° Fin Flow</a></h3>
+<p align="center">Financial flow management app â€” expense tracking, budget planning, and visual financial reports.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/FinTech-App-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Full--Stack-Web-blue?style=flat-square" />
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center"><a href="https://vaulthub.vercel.app/">í´ Vault Hub</a></h3>
+<p align="center">Offline-first personal vault â€” store links, notes & resources. PWA with IndexedDB storage.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/PWA-Offline-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/IndexedDB-Storage-red?style=flat-square" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center"><a href="https://urattendance.vercel.app/">í³Š Attendance Calculator</a></h3>
+<p align="center">Web-based attendance management with secure sharing for educators and co-teachers.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/EdTech-Tool-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/Shareable-Access-lightgrey?style=flat-square" />
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center"><a href="https://dynamicscan.vercel.app/">í³± DynamicScan</a></h3>
+<p align="center">Dynamic QR platform â€” update scan destinations on the fly without reprinting codes.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/QR-Dynamic-informational?style=flat-square" />
+<img src="https://img.shields.io/badge/Web-App-brightgreen?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## ğŸ“ˆ GitHub Activity
+<h2 align="center">í¿… Community & Leadership</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumaleshp&bg_color=1a1a1a&color=ff5722&line=ff5722&point=ffffff&area=true&hide_border=true" alt="Thirumalesh's Activity Graph" />
+
+| Role | Organization | Since |
+|:-----|:------------|:------|
+| â˜ï¸ **AWS Cloud Captain** | Amazon Web Services | Jan 2026 |
+| í´– **Google Student Ambassador** | Google (Gemini) | Aug 2024 |
+| â›“ **Co-Lead â€” MLRITM Chapter** | AlgoBharat | Sep 2023 |
+
+</div>
+
+---
+
+<h2 align="center">í³Š GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thirumaleshp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thirumaleshp&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumaleshp&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thirumaleshp&show_icons=true&theme=radical&hide_border=true" alt="Thirumalesh's GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumaleshp&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thirumaleshp&theme=radical&hide_border=true" alt="GitHub Streak" height="180">
+
+  <a href="https://thirumalesh.xyz">
+    <img src="https://img.shields.io/badge/í¼_thirumalesh.xyz-Visit_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.buymeacoffee.com/thirumaleshp">
+    <img src="https://img.shields.io/badge/â˜•_Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge" alt="Buy Me A Coffee" />
+  </a>
+
   <br><br>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5722&height=100&section=footer" width="100%"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%"/>
+
 </div>
