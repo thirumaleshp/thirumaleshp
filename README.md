@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Dynamic header with gradient -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Thirumalesh%20Pinninti&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=crafting%20cloud%20infrastructure%20%E2%80%A2%20shipping%20AI%20products%20%E2%80%A2%20building%20communities&descSize=14&descAlignY=55" width="100%"/>
 
 </div>
@@ -11,7 +10,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### í·­ Who am I?
+### ğŸ§­ Who am I?
 
 ```yaml
 name: Thirumalesh Pinninti
@@ -35,7 +34,7 @@ fun_fact: "I deploy personal AI assistants
 </td>
 <td width="50%" valign="top">
 
-### í¾¯ What I Do
+### ğŸ¯ What I Do
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=400&height=80&lines=%E2%98%81%EF%B8%8F+Cloud+Architecture+%26+DevOps;%F0%9F%A4%96+AI+Agent+Orchestration;%E2%9B%93+Blockchain+%40+AlgoBharat;%F0%9F%9A%80+SaaS+Product+Engineering" alt="Typing SVG" />
 
@@ -69,14 +68,14 @@ fun_fact: "I deploy personal AI assistants
 </td>
 <td align="center" width="33%">
 
-**í²» Languages & Dev**
+**ğŸ’» Languages & Dev**
 
 <img src="https://skillicons.dev/icons?i=python,c,bash,js,html&perline=5" />
 
 </td>
 <td align="center" width="33%">
 
-**í´§ DevOps & Tools**
+**ğŸ”§ DevOps & Tools**
 
 <img src="https://skillicons.dev/icons?i=jenkins,git,github,linux,vscode&perline=5" />
 
@@ -87,7 +86,7 @@ fun_fact: "I deploy personal AI assistants
 
 ---
 
-<h2 align="center">í¿—ï¸ Featured Projects</h2>
+<h2 align="center">ğŸ—ï¸ Featured Projects</h2>
 
 <div align="center">
 <table>
@@ -104,7 +103,7 @@ fun_fact: "I deploy personal AI assistants
 </td>
 <td width="50%">
 
-<h3 align="center"><a href="https://myclaw.live">í´– My-Claw</a></h3>
+<h3 align="center"><a href="https://myclaw.live">ğŸ¤– My-Claw</a></h3>
 <p align="center">Managed AI assistant hosting â€” deploy to Telegram, WhatsApp, Slack & Discord with zero server setup.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-Orchestration-2496ED?style=flat-square" />
@@ -116,7 +115,7 @@ fun_fact: "I deploy personal AI assistants
 <tr>
 <td width="50%">
 
-<h3 align="center"><a href="https://finflow.thirumalesh.xyz">í²° Fin Flow</a></h3>
+<h3 align="center"><a href="https://finflow.thirumalesh.xyz">ğŸ’° Fin Flow</a></h3>
 <p align="center">Financial flow management app â€” expense tracking, budget planning, and visual financial reports.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/FinTech-App-success?style=flat-square" />
@@ -126,7 +125,7 @@ fun_fact: "I deploy personal AI assistants
 </td>
 <td width="50%">
 
-<h3 align="center"><a href="https://vaulthub.vercel.app/">í´ Vault Hub</a></h3>
+<h3 align="center"><a href="https://vaulthub.vercel.app/">ğŸ” Vault Hub</a></h3>
 <p align="center">Offline-first personal vault â€” store links, notes & resources. PWA with IndexedDB storage.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/PWA-Offline-orange?style=flat-square" />
@@ -138,7 +137,7 @@ fun_fact: "I deploy personal AI assistants
 <tr>
 <td width="50%">
 
-<h3 align="center"><a href="https://urattendance.vercel.app/">í³Š Attendance Calculator</a></h3>
+<h3 align="center"><a href="https://urattendance.vercel.app/">ğŸ“Š Attendance Calculator</a></h3>
 <p align="center">Web-based attendance management with secure sharing for educators and co-teachers.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/EdTech-Tool-yellow?style=flat-square" />
@@ -148,7 +147,7 @@ fun_fact: "I deploy personal AI assistants
 </td>
 <td width="50%">
 
-<h3 align="center"><a href="https://dynamicscan.vercel.app/">í³± DynamicScan</a></h3>
+<h3 align="center"><a href="https://dynamicscan.vercel.app/">ğŸ“± DynamicScan</a></h3>
 <p align="center">Dynamic QR platform â€” update scan destinations on the fly without reprinting codes.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/QR-Dynamic-informational?style=flat-square" />
@@ -162,21 +161,21 @@ fun_fact: "I deploy personal AI assistants
 
 ---
 
-<h2 align="center">í¿… Community & Leadership</h2>
+<h2 align="center">ğŸ… Community & Leadership</h2>
 
 <div align="center">
 
 | Role | Organization | Since |
 |:-----|:------------|:------|
 | â˜ï¸ **AWS Cloud Captain** | Amazon Web Services | Jan 2026 |
-| í´– **Google Student Ambassador** | Google (Gemini) | Aug 2024 |
+| ğŸ¤– **Google Student Ambassador** | Google (Gemini) | Aug 2024 |
 | â›“ **Co-Lead â€” MLRITM Chapter** | AlgoBharat | Sep 2023 |
 
 </div>
 
 ---
 
-<h2 align="center">í³Š GitHub Analytics</h2>
+<h2 align="center">ğŸ“Š GitHub Analytics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thirumaleshp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="170" alt="GitHub Stats" />
@@ -194,11 +193,7 @@ fun_fact: "I deploy personal AI assistants
 <div align="center">
 
   <a href="https://thirumalesh.xyz">
-    <img src="https://img.shields.io/badge/í¼_thirumalesh.xyz-Visit_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/thirumaleshp">
-    <img src="https://img.shields.io/badge/â˜•_Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/ğŸŒ_thirumalesh.xyz-Visit_Portfolio-58A6FF?style=for-the-badge" alt="Portfolio" />
   </a>
 
   <br><br>
